@@ -1,0 +1,53 @@
+
+# Site settings
+title: Zou Chenxuanyin
+name: Zou Chenxuanyin's homepage
+subtitle:  Control Theorey
+email: zcxy0218@gmail.com
+description: >
+   Economist
+baseurl: ""
+url: "https://zcxyu.github.io/"
+github_username:  zcxy
+disqus_baseurl: "https://zcxy.github.io/"
+disqus_shortname: https-zcxy-github-io
+permalink: :title
+google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
+
+ Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Zou Chenxuanyin"
+
+
+
+# External gems
+gems:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+
+
+social:
+  - name: GitHub
+    icon: github
+    username: zcxy
+    url: https://github.com/zcxy
+    desc: Fork me on GitHub
+    share: false
+
+ # - name: LinkedIn
+ #   icon: linkedin
+ #   username: Zou Chenxuanyin
+ #   url: 
+ #   desc: Connect with me on LinkedIn
+ #   share: true
