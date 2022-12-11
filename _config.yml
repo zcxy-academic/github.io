@@ -7,10 +7,10 @@ email: zcxy0218@gmail.com
 description: >
    Economist
 baseurl: ""
-url: "https://zcxyu.github.io/"
+url: "https://zcxy-academic.github.io/"
 github_username:  zcxy
-disqus_baseurl: "https://zcxy.github.io/"
-disqus_shortname: https-zcxy-github-io
+disqus_baseurl: "https://zcxy-academic.github.io/"
+disqus_shortname: https-zcxy-academic-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
